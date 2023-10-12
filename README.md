@@ -10,3 +10,4 @@ Adding instruction text etc
 ## Deployment
 This is a simple deployment
 ## How To Contribute
+Please fork repo then issue pull
